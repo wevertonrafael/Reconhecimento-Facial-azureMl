@@ -1,0 +1,9 @@
+Título de Projeto: Reconhecimento-Facial-azureMl
+
+Descrição: Este projeto utiliza reconhecimento facial para processar imagens e transformar as informações em dados utilizando Azure ML. 
+
+Como funciona: As imagens são transferidas a partir da pasta inputs. O algoritmo processa as imagens usando reconhecimento facial. Os resultados são salvos na pasta output. 
+
+O que aprendir com o projeto foi manusear bem o ambiente virutal da azure e pude adquirir um conhecimento muito grande não só em Reconhecimento facial, como também em imagens de texto, etc.
+
+![image](https://github.com/user-attachments/assets/bf627800-910b-4f49-a40b-df54c88ed6b3)
